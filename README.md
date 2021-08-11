@@ -1,6 +1,6 @@
 # citas
 
-una aplicacion en Angular para generar citas
+una aplicación en Angular para generar citas
 
 # Demo
 
